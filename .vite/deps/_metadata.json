@@ -1,0 +1,25 @@
+{
+  "hash": "aca52c07",
+  "configHash": "49acd256",
+  "lockfileHash": "3edf39fa",
+  "browserHash": "f0dd6905",
+  "optimized": {
+    "bootstrap": {
+      "src": "../../node_modules/bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "cf312f6c",
+      "needsInterop": false
+    },
+    "jquery": {
+      "src": "../../node_modules/jquery/dist/jquery.js",
+      "file": "jquery.js",
+      "fileHash": "1505bd0a",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-HKJ2B2AA": {
+      "file": "chunk-HKJ2B2AA.js"
+    }
+  }
+}

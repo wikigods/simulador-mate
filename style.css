@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f9fa;
+}
+.tab-content {
+  background-color: white;
+  min-height: 400px;
+}
+.result-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #e9ecef;
+  border-radius: 5px;
+}
+input[type="number"] {
+  min-width: 60px;
+}
+table.matrix-input input {
+  width: 100%;
+  border: 1px solid #ced4da;
+  text-align: center;
+}
+.highlight-optimal {
+  background-color: #d1e7dd !important; /* Bootstrap success-light */
+  font-weight: bold;
+}
